@@ -1,5 +1,5 @@
 <div align="center">
-<h1>FDS: Frequency-Aware Denoising Score for Text-Guided Latent Diffusion Image Editing</h1>
+<h1>FDS: Frequency-Aware Denoising Score for Text-Guided Latent Diffusion Image Editing (CVPR'25) </h1>
 
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Paper-blue" alt="Paper PDF">
