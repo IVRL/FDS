@@ -1,0 +1,40 @@
+# Standard Python Libraries/Utilities
+certifi==2024.7.4
+charset-normalizer==3.3.2
+colorama==0.4.6
+filelock==3.15.4
+fsspec==2024.6.1
+idna==3.7
+importlib_metadata==8.2.0
+numpy==1.24.4
+packaging==24.1
+pillow==10.4.0
+pillow-avif-plugin
+psutil==6.0.0
+PyYAML==6.0.2
+regex==2024.7.24
+requests==2.32.3
+six==1.16.0
+tqdm==4.66.5
+typing_extensions==4.12.2
+urllib3==2.2.2
+zipp==3.20.0
+ipdb
+
+# Deep Learning & AI Libraries
+accelerate==0.33.0
+diffusers==0.30.0
+huggingface-hub==0.24.5
+safetensors==0.4.4
+tokenizers==0.19.1
+transformers==4.44.0
+
+# PyTorch dependencies
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch==1.12.0+cu113
+torchvision==0.13.0+cu113
+torchaudio==0.12.0
+
+# Project-Specific Libraries
+PyWavelets==1.4.1
+pytorch_wavelet
